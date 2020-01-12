@@ -7,4 +7,4 @@
 ### Lab Schedule
 Date | Lab
 ------------ | -------------
-Jan 14 | 
+Jan 14 | Lab 1
